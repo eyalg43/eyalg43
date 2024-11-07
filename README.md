@@ -25,3 +25,5 @@ I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, looking 
 - MongoDB
 - Git & GitHub
 - Jira
+
+## 📂 My Projects:

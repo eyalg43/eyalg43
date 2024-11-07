@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi! I'm Eyal Geva
+I'm a 3rd-year Computer Science student at Bar-Ilan University, looking for a software developer internship.
 
-<!--
-**eyalg43/eyalg43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+💻 Tech enthusiast who enjoys building software and staying updated with new trends
+📚 Currently learning AWS and advancing my Python skills
+🚀 Continuously learning new skills independently
+🤝 Team player who communicates and collaborates effectively to achieve shared goals
+💻 Skills & Technologies
+Programming Languages:
+JavaScript
+Python
+Java
+C (familiar with C++)
+Tools & Technologies:
+React
+Node.js & Express.js
+MongoDB
+Git & GitHub
+Jira

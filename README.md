@@ -17,15 +17,15 @@ I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, seeking 
 - JavaScript
 - Python
 - Java
-- C (familiar with C++)
+- Familiar with C++ and C
 
 ### Tools & Technologies:
 - React
 - Node.js & Express.js
 - MongoDB
+- SQL
 - Git & GitHub
 - Jira
 
 ## 📂 My Projects:
 ⬇️ **Explore my featured projects below!**
-

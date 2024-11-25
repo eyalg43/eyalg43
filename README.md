@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Eyal Geva
 
-I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, looking for a **software developer internship**.
+I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, seeking a student position as a **Software Developer/Engineer**.
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Eyal Geva
 
-I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, seeking a student position as a **Software Developer/Engineer**.
+I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, seeking a role as a **Software Developer/Engineer**.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, seeking 
 - JavaScript
 - Python
 - Java
-- Familiar with C++ and C
+- C/C++
 
 ### Tools & Technologies:
 - React

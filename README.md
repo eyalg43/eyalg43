@@ -24,7 +24,7 @@ I'm a **3rd-year Computer Science student** at **Bar-Ilan University**, seeking 
 - Node.js & Express.js
 - MongoDB
 - SQL
-- Git & GitHub
+- GitHub
 - Jira
 
 ## 📂 My Projects:
